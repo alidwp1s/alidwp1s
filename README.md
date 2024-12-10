@@ -19,7 +19,9 @@
 </center>
 
 
+
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
+
 ```javascript
 let biodata = {
   nama: "Ali Dwi Prastiyo",
@@ -37,20 +39,30 @@ console.log(biodata.deskripsi());
 ```
 
 
-## Github Stats 
+## Github Statistics 📊
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mas-al757&show_icons=true&theme=chartreuse-dark&locale=id"> <br>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mas-al757&theme=chartreuse-dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-al757&layout=compact&theme=chartreuse-dark&langs_count=12" />
 </p>
+
+
+
+## Let's Connect! 🌐
+Follow me on my social media platforms:
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078167889786) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@dwipraz) 
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@dw1_pras)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dwi_____02) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername) 
+[![Paypal](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/alidwip01)  
+
+Stay connected! 🚀
+
+
 <hr/>
-
-
-## Let's connect!
-
-
-
-<hr>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&color=light&width=380&height=45&lines=Terima+Kasih+Telah+Datang;Ke+Githubku;Jangan+Lupa+Follow+Guys+...&center=true" />
 </p>
