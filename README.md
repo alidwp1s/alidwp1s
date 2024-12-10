@@ -17,7 +17,7 @@
 </p>
 <p>Hanya Seorang Hamba Allah!</p>
 </center>
-
+<br />
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
@@ -37,7 +37,7 @@ let biodata = {
 
 console.log(biodata.deskripsi());
 ```
-
+<br />
 
 ## Github Statistics 📊
 
@@ -46,7 +46,7 @@ console.log(biodata.deskripsi());
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mas-al757&theme=chartreuse-dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-al757&layout=compact&theme=chartreuse-dark&langs_count=12" />
 </p>
-
+<br />
 
 
 ## Let's Connect! 🌐
@@ -61,7 +61,7 @@ Follow me on my social media platforms:
 
 Stay connected! 🚀
 
-
+<br>
 <hr/>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&color=light&width=380&height=45&lines=Terima+Kasih+Telah+Datang;Ke+Githubku;Jangan+Lupa+Follow+Guys+...&center=true" />
