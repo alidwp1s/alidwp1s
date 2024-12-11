@@ -42,9 +42,9 @@ console.log(biodata.deskripsi());
 ## Github Statistics 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mas-al757&show_icons=true&theme=chartreuse-dark&locale=id"> <br>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mas-al757&theme=chartreuse-dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-al757&layout=compact&theme=chartreuse-dark&langs_count=12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alidwp1s&show_icons=true&theme=chartreuse-dark&locale=id"> <br>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=alidwp1s&theme=chartreuse-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alidwp1s&layout=compact&theme=chartreuse-dark&langs_count=12" />
 </p>
 <br />
 
